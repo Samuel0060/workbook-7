@@ -73,4 +73,4 @@ WHERE companyName LIKE "Tokyo Traders";
 SELECT productName, supplierID
 FROM products
 WHERE supplierID = 4;
-
+-- google-- 
